@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7d97c22-fcaf-4d0f-99b3-f072decfa43f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExemploNavegacao" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projeto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repositorio/ListaPessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repositorio/ListaSupervisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Servico/Servico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/Supervisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/domain/documento/Documento.java" afterDir="false" />
+    <list default="true" id="c7d97c22-fcaf-4d0f-99b3-f072decfa43f" name="Changes" comment="Projeto Java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Projeto&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JAVA&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -71,7 +56,9 @@
       <updated>1667157399460</updated>
       <workItem from="1667157401279" duration="5852000" />
       <workItem from="1667166299948" duration="2585000" />
-      <workItem from="1667168947261" duration="1530000" />
+      <workItem from="1667168947261" duration="2180000" />
+      <workItem from="1667171205117" duration="607000" />
+      <workItem from="1667188903302" duration="325000" />
     </task>
     <servers />
   </component>
@@ -88,5 +75,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto Java" />
   </component>
 </project>
